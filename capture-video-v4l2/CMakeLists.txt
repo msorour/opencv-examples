@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( capturev4l2 )
+find_package( OpenCV REQUIRED )
+add_executable( capturev4l2 capturev4l2.cpp )
+target_link_libraries( capturev4l2 ${OpenCV_LIBS} )
