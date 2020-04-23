@@ -1,0 +1,3 @@
+/home/business/opencv-examples/exchange_rate_monitoring/build/CMakeFiles/rebuild_cache.dir
+/home/business/opencv-examples/exchange_rate_monitoring/build/CMakeFiles/manual_monitoring.dir
+/home/business/opencv-examples/exchange_rate_monitoring/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( manual_monitoring )
+find_package( OpenCV REQUIRED )
+add_executable( manual_monitoring manual_monitoring.cpp )
+target_link_libraries( manual_monitoring -llept -lncurses -ltesseract tesseract ${OpenCV_LIBS} ${Tesseract_LIBRARIES} ${LEPTONICA_LIBRARIES} )

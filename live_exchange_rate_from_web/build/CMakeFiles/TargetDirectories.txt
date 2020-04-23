@@ -1,0 +1,3 @@
+/home/business/opencv-examples/live_exchange_rate_from_web/build/CMakeFiles/rebuild_cache.dir
+/home/business/opencv-examples/live_exchange_rate_from_web/build/CMakeFiles/live_exchange_rate_from_web.dir
+/home/business/opencv-examples/live_exchange_rate_from_web/build/CMakeFiles/edit_cache.dir

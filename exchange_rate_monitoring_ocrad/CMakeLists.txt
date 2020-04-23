@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( manual_monitoring_ocrad )
+find_package( OpenCV REQUIRED )
+add_executable( manual_monitoring_ocrad manual_monitoring_ocrad.cpp )
+target_link_libraries( manual_monitoring_ocrad ${OpenCV_LIBS} )

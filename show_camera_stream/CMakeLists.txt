@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( manual_monitoring )
+find_package( OpenCV REQUIRED )
+add_executable( show_camera_stream show_camera_stream.cpp )
+target_link_libraries( show_camera_stream ${OpenCV_LIBS} )

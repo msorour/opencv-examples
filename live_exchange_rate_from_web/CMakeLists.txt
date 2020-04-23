@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( live_exchange_rate_from_web )
+find_package( OpenCV REQUIRED )
+add_executable( live_exchange_rate_from_web live_exchange_rate_from_web.cpp )
+target_link_libraries( live_exchange_rate_from_web ${OpenCV_LIBS} )

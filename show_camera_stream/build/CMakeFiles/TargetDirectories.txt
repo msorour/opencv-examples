@@ -1,0 +1,3 @@
+/home/business/opencv-examples/show_camera_stream/build/CMakeFiles/rebuild_cache.dir
+/home/business/opencv-examples/show_camera_stream/build/CMakeFiles/show_camera_stream.dir
+/home/business/opencv-examples/show_camera_stream/build/CMakeFiles/edit_cache.dir

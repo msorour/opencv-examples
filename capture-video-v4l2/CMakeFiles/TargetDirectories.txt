@@ -1,3 +1,0 @@
-/home/work/github-repos/opencv-examples/capture-video-v4l2/CMakeFiles/edit_cache.dir
-/home/work/github-repos/opencv-examples/capture-video-v4l2/CMakeFiles/rebuild_cache.dir
-/home/work/github-repos/opencv-examples/capture-video-v4l2/CMakeFiles/capturev4l2.dir

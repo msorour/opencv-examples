@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/business/opencv-examples/show_camera_stream/show_camera_stream.cpp
+errno.h
+-
+fcntl.h
+-
+linux/videodev2.h
+-
+stdint.h
+-
+stdio.h
+-
+string.h
+-
+sys/ioctl.h
+-
+sys/mman.h
+-
+unistd.h
+-
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+iostream
+-
+string
+-
+iomanip
+-
+sstream
+-
+opencv2/opencv.hpp
+-
+curses.h
+-
+

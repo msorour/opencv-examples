@@ -1,3 +1,0 @@
-/home/work/github-repos/opencv-examples/display-image/CMakeFiles/edit_cache.dir
-/home/work/github-repos/opencv-examples/display-image/CMakeFiles/rebuild_cache.dir
-/home/work/github-repos/opencv-examples/display-image/CMakeFiles/DisplayImage.dir
